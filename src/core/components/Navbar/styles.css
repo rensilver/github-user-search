@@ -1,0 +1,16 @@
+.main-navbar {
+  height: 62px;
+  background-color: #1890ff;
+  padding-left: 40px;
+  align-items: center;
+  display: flex;
+}
+
+.navbar-text {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  line-height: 32px;
+  font-size: 24px;
+  font-style: normal;
+}

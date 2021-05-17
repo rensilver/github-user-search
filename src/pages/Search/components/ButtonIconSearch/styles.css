@@ -1,0 +1,17 @@
+.btn-icon-search {
+  margin-top: 24px;
+  margin-left: 94px;
+  text-decoration: none;
+  background: #1890ff;
+  border-radius: 4px;
+  width: 101px;
+  height: 40px;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: cornflowerblue;
+}

@@ -1,0 +1,21 @@
+.search-container {
+  background: #e6f7ff;
+  border-radius: 16px;
+  margin-top: 54px;
+  margin-left: 90px;
+  margin-right: 100px;
+  height: 270px;
+}
+
+.search-title {
+  padding-top: 66px;
+  padding-left: 94px;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 46px;
+  color: #262626;
+}
+
+.btn-position {
+  padding-left: 94px;
+}

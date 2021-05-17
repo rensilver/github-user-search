@@ -1,0 +1,15 @@
+.btn-icon-profile {
+  background: #1890ff;
+  border-radius: 4px;
+  width: 101px;
+  height: 40px;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 320px;
+}
+
+button:hover {
+  background-color: cornflowerblue;
+}
